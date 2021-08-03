@@ -63,7 +63,7 @@
     "stylelint-declaration-block-no-ignored-properties": "^1.1.0",
     "stylelint-scss": "^3.4.4",
     "stylelint-webpack-plugin": "^0.10.5",
-    "tar": "^6.0.1",
+    "tar": "^6.1.2",
     "ts-loader": "^6.2.2",
     "typescript": "^3.8.3",
     "vue-hot-reload-api": "^2.3.1",
